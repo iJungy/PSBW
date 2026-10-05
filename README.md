@@ -1,4 +1,4 @@
-EJERCICIO 1
+## EJERCICIO 1
 1. ¿Qué hace este ejercicio? Explica con tus propias palabras la funcionalidad desarrollada.
    Lo que hacemos en el primer ejercicio es simplemente crear, manipular y agregar elementos al DOM, que nos sirve que se muestre en tiempo real y sea mucho mas
    más rápido sin tener que recargar la página.
@@ -14,9 +14,9 @@ para ti.
 9. ¿Utilizaste Inteligencia Artificial? Responde Sí o No.
     No utilicé IA, pero si busqué como hacer un for en JavaScript XD y también que estaba pasando con mi código.
 
+    ------------------------------------------------------
 
-
-EJERCICIO 2
+## EJERCICIO 2
 1. ¿Qué hace este ejercicio? Explica con tus propias palabras la funcionalidad desarrollada.
     Modificamos desde el mismo JavaScript los textos y asignamos clases a los parrafos.
 2. ¿Qué conceptos de JavaScript utilizaste? Por ejemplo: arreglos, objetos, funciones, ciclos,
@@ -29,9 +29,10 @@ para ti.
     Todavía estoy aprendiendo como se utiliza JavaScript.
 5. ¿Utilizaste Inteligencia Artificial? Responde Sí o No.
     Sip, para revisar los erores que tenía.
+    ------------------------------------------------------
 
 
-EJERCICIO 3
+## EJERCICIO 3
 1. ¿Qué hace este ejercicio? Explica con tus propias palabras la funcionalidad desarrollada.
     Es una pagina que muestra tarjetas hechas a través de un arreglo de objetos que se hace con JavaScript.
 2. ¿Qué conceptos de JavaScript utilizaste? Por ejemplo: arreglos, objetos, funciones, ciclos,
@@ -47,7 +48,9 @@ para ti.
     Si, tuve que buscar la forma de hacer el arreglo, me dijo que lo declarara como let y entendí que lo declara así para que fuera de manera
     global y que mi función pudiera acceder a él, también me ayudó con la forma en la que debía crearlo con sus llaves y comillas.
 
-EJERCICIO 4
+    ------------------------------------------------------
+
+## EJERCICIO 4
 1. ¿Qué hace este ejercicio? Explica con tus propias palabras la funcionalidad desarrollada.
     En este ejercicio se busca reorganizar la página mediante botones que se crean con la misma funcion de javascritp y que
     tienen la capacidad de mover los elementos que se crearon en ejercicios anteriores y con otro boton podemos regresar al orden original.
@@ -62,7 +65,9 @@ EJERCICIO 4
     Si, necesitaba arreglar los formatos que me estaban saliendo mal, el diseño de la página se fue por el desague, tuve que buscar como hacerlo.
     Afortunadamente fue un error a solucionar rapido.
 
-EJERCICIO 5
+    ------------------------------------------------------
+
+## EJERCICIO 5
 1. ¿Qué hace este ejercicio? Explica con tus propias palabras la funcionalidad desarrollada.
     Se crea una lista vacia en la cual podemos agregar elementos y borrarlos tambien, no maneja elementos de 
     casos anteriores, asi que esta separada.
@@ -75,8 +80,9 @@ EJERCICIO 5
     El caso es que no me funcionaba y tube que revisar bien el código.
 5. ¿Utilizaste Inteligencia Artificial? Responde Sí o No.
     Si, tuve que buscar como funcionaba el removechild y como tenia que usarlo.
+    ------------------------------------------------------
 
-EJERCICIO 6
+## EJERCICIO 6
 Elegí mouseover y mouseout.
 mouseover ocurre cuando el puntero entra en el área del elemento, y mouseout cuando sale.
 La diferencia con click es que estos eventos no necesitan que el usuario presione nada, solo que mueva el mouse.
@@ -94,8 +100,10 @@ La diferencia con click es que estos eventos no necesitan que el usuario presion
 5. ¿Utilizaste Inteligencia Artificial? Responde Sí o No.
     Si, tuve que buscar como funcionaban los eventos de mouseover y mouseout.
 
+    ------------------------------------------------------
 
-EJERCICIO 7
+
+## EJERCICIO 7
 1. ¿Qué hace este ejercicio? Explica con tus propias palabras la funcionalidad desarrollada.
     Tenemos un formulario que hace un envio de los datos que ingresemos en el formulario a las tarjetas que ya
     se habian hecho en codigo anterior, entonces es hacer una nueva tarjeta con el formulario.
@@ -110,8 +118,10 @@ EJERCICIO 7
 5. ¿Utilizaste Inteligencia Artificial? Responde Sí o No.
     No.
 
+    ------------------------------------------------------
 
-EJERCICIO 8
+
+## EJERCICIO 8
 1. ¿Qué hace este ejercicio? Explica con tus propias palabras la funcionalidad desarrollada.
     Es un filtro para realizar busquedas segun la tecnologia que se escriba en el campo de busqueda.
 2. ¿Qué conceptos de JavaScript utilizaste? Por ejemplo: arreglos, objetos, funciones, ciclos, condicionales, DOM, eventos o localStorage.
@@ -124,8 +134,10 @@ EJERCICIO 8
 5. ¿Utilizaste Inteligencia Artificial? Responde Sí o No.
     Si, tuve que buscar como funcionaba filter e includes.
 
-EJERCICIO 9
--> localStorage: un pequeño almacén del navegador que guarda pares clave → valor y sobrevive a recargas y a cerrar la pestaña. Solo guarda texto, por eso hay que convertir el arreglo.
+    ------------------------------------------------------
+
+## EJERCICIO 9
+###-> localStorage: un pequeño almacén del navegador que guarda pares clave → valor y sobrevive a recargas y a cerrar la pestaña. Solo guarda texto, por eso hay que convertir el arreglo.
 
 1. ¿Qué hace este ejercicio? Explica con tus propias palabras la funcionalidad desarrollada.
     En este ejercicio se resuelve una problematica que pasa cuando recargas la pagina, entonces las tecnologias 
@@ -147,6 +159,31 @@ EJERCICIO 9
     ya que al parecer tengo que manejar como texto todo y que sean texto y que devuelva texto, la verdad no 
     entendí mucho de eso, pero repasaré todavía más hasta que pueda entender las razones.
 
+    ------------------------------------------------------
+
+
+## EJERCICIO 10
+1. ¿Qué hace este ejercicio? Explica con tus propias palabras la funcionalidad desarrollada.
+    Hace un formulario creado con JS para buscar usuarios de GIT, valida que no este vacio 
+2. ¿Qué conceptos de JavaScript utilizaste? Por ejemplo: arreglos, objetos, funciones, ciclos, condicionales, DOM, eventos o localStorage.
+    Se que debe hacer lo siguiente:
+    Paso 1: HAcer el formulario y el envio
+    Paso 2: la peticion con fetch
+    Paso 3: procesar la respuesta
+    Paso 4: manejar los tipos de errores
+    paso 5: nueva busqueda y mandar "" la cadena para que inicialice limpia
+3. ¿Ya conocías estos conceptos? Indica cuáles habías utilizado anteriormente y cuáles fueron nuevos para ti.
+    Intenté hacer este código, pero no me salió, no supe como hacer llamadas al API, se que devuelven las respuestas en JSON, pero no supe de ello como procesarlas despues y con ello comprobar y hacer los campos que obtienen los datos.
+4. ¿Tuviste dificultades? Explica qué parte te causó problemas y cómo intentaste resolverla.
+    Si, demasidas, busqué en internet y me salió código que funcionaba y lo fuí adaptando, pero revolví todo y 
+    por circunstancias ajenas no pude dedicarme al 100 al codigo, y también descuido mío, lo resolveré, ya que 
+    me interesa como manejar todo y aprender todo, subiré un commit después.
+5. ¿Utilizaste Inteligencia Artificial? Responde Sí o No.
+    No, lo intentaré por mi cuenta.
+
+### No intente resolver las demas preguntes porque no termine la practica. Lo subiré despues con todo finalizado.
+
+ 
 
 
 
