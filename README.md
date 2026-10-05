@@ -124,5 +124,29 @@ EJERCICIO 8
 5. ¿Utilizaste Inteligencia Artificial? Responde Sí o No.
     Si, tuve que buscar como funcionaba filter e includes.
 
+EJERCICIO 9
+-> localStorage: un pequeño almacén del navegador que guarda pares clave → valor y sobrevive a recargas y a cerrar la pestaña. Solo guarda texto, por eso hay que convertir el arreglo.
+
+1. ¿Qué hace este ejercicio? Explica con tus propias palabras la funcionalidad desarrollada.
+    En este ejercicio se resuelve una problematica que pasa cuando recargas la pagina, entonces las tecnologias 
+    que tenias antes se borraban, entonces ahora podemos agregarlas de forma muy clara y no se desaparecen.
+2. ¿Qué conceptos de JavaScript utilizaste? Por ejemplo: arreglos, objetos, funciones, ciclos, condicionales, DOM, eventos o localStorage.
+    localStorage, JSON.stringfy, JSON.parse, slice no los conocia, los conozco por primera vez sinceramente.
+    setItem, getItem, removeItem,try/catch,
+3. ¿Ya conocías estos conceptos? Indica cuáles habías utilizado anteriormente y cuáles fueron nuevos para ti.
+    Conozco setItem, getItem, removeItem,try/catch,  los conosco de JAVA y Python.
+    Se que tienen el compartamiento igual que una lista y que nos sirve para manejar la informacion,
+    el try/catch lo conozco de JAVA, aqui en JS lo relaciono con promise, pero creo que tienen comportamientos
+    diferentes, aunque no logro relacionar cuales son con exactitud.
+4. ¿Tuviste dificultades? Explica qué parte te causó problemas y cómo intentaste resolverla.
+    Al principio ni siquiera supe por donde comenzar, estuve buscando soluciones y bueno, me arrojaron cosas raras como JSON.striginfy, que no termino de comprender que es, y otras cosas que con investigacion quedaron
+    un poco mas claras.
+5. ¿Utilizaste Inteligencia Artificial? Responde Sí o No.
+    Si, en este caso no supe por donde abordar el tema, asi que buscando en intertet, encontraba cosas que me 
+    parecian utiles, entonces junté cosas que me podian servir y las fuí juntando, hasta que todo salió error,
+    ya que al parecer tengo que manejar como texto todo y que sean texto y que devuelva texto, la verdad no 
+    entendí mucho de eso, pero repasaré todavía más hasta que pueda entender las razones.
+
+
 
 
