@@ -68,9 +68,9 @@ function mostrarOcultar() {
 
 // boton 2: cambiar un texto (va rotando entre varios mensajes)
 const mensajes = [
-    "Este es el texto original del panel.",
-    "¡El texto cambió con JavaScript!",
-    "Otro mensaje distinto para practicar eventos."
+    "100% Original NO FAKE.",
+    "¡Magia Negra!",
+    "More events."
 ];
 let indiceMensaje = 0;
 
@@ -92,11 +92,11 @@ btnCambiarClase.addEventListener("click", cambiarClase);
 // mouseover: se ejecuta cuando el puntero ENTRA a la caja
 cajaHover.addEventListener("mouseover", function () {
     cajaHover.style.backgroundColor = "#2ecc71";
-    cajaHover.textContent = "¡El mouse está encima!";
+    cajaHover.textContent = "Lo apachurraste men";
 });
 
 // mouseout: se ejecuta cuando el puntero SALE de la caja
 cajaHover.addEventListener("mouseout", function () {
     cajaHover.style.backgroundColor = "";
-    cajaHover.textContent = "Pasa el mouse sobre esta caja";
+    cajaHover.textContent = "COME HERE";
 });
