@@ -47,3 +47,18 @@ para ti.
     Si, tuve que buscar la forma de hacer el arreglo, me dijo que lo declarara como let y entendí que lo declara así para que fuera de manera
     global y que mi función pudiera acceder a él, también me ayudó con la forma en la que debía crearlo con sus llaves y comillas.
 
+EJERCICIO 4
+1. ¿Qué hace este ejercicio? Explica con tus propias palabras la funcionalidad desarrollada.
+    En este ejercicio se busca reorganizar la página mediante botones que se crean con la misma funcion de javascritp y que
+    tienen la capacidad de mover los elementos que se crearon en ejercicios anteriores y con otro boton podemos regresar al orden original.
+2. ¿Qué conceptos de JavaScript utilizaste? Por ejemplo: arreglos, objetos, funciones, ciclos, condicionales, DOM, eventos o localStorage.
+    DOM, eventos, insertbefore,los eventos del click, todavia me cuesta un poco.
+3. ¿Ya conocías estos conceptos? Indica cuáles habías utilizado anteriormente y cuáles fueron nuevos para ti.
+    Me confunden los eventos y como es la sintaxis.
+4. ¿Tuviste dificultades? Explica qué parte te causó problemas y cómo intentaste resolverla.
+    Cuando intenté poner todo dentro de app, se desconfiguró todo y no sabía porque pasaba esto, entonces tuve que estar preguntando como hacer
+    esa parte hasta que entendí pq pasaba esto.
+5. ¿Utilizaste Inteligencia Artificial? Responde Sí o No.
+    Si, necesitaba arreglar los formatos que me estaban saliendo mal, el diseño de la página se fue por el desague, tuve que buscar como hacerlo.
+    Afortunadamente fue un error a solucionar rapido.
+
