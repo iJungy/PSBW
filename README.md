@@ -113,10 +113,16 @@ EJERCICIO 7
 
 EJERCICIO 8
 1. ¿Qué hace este ejercicio? Explica con tus propias palabras la funcionalidad desarrollada.
+    Es un filtro para realizar busquedas segun la tecnologia que se escriba en el campo de busqueda.
 2. ¿Qué conceptos de JavaScript utilizaste? Por ejemplo: arreglos, objetos, funciones, ciclos, condicionales, DOM, eventos o localStorage.
+    input, filter, includes, convertir de mayusculas  a minusculas y condiciones.
 3. ¿Ya conocías estos conceptos? Indica cuáles habías utilizado anteriormente y cuáles fueron nuevos para ti.
+    Convertir mayusculas a minusculas sip, se trabaja igual en mayoria de lenguajes, pero input y filter no 
+    lo habia manejado.
 4. ¿Tuviste dificultades? Explica qué parte te causó problemas y cómo intentaste resolverla.
+    Anteriormente no ponia una regla cuando ingresaran mayusculas o minusculas,entonces no sabia que pasaba, ya aplique el cambio y todo bien.
 5. ¿Utilizaste Inteligencia Artificial? Responde Sí o No.
+    Si, tuve que buscar como funcionaba filter e includes.
 
 
 
