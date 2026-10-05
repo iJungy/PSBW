@@ -18,14 +18,32 @@ para ti.
 
 EJERCICIO 2
 1. ¿Qué hace este ejercicio? Explica con tus propias palabras la funcionalidad desarrollada.
-    Modificamos desde el mismo JavaScript los textos y asignamos clases a los parrafos. 
-2. ¿Qué conceptos de JavaScript utilizaste? Por ejemplo: arreglos, objetos, funciones, ciclos, 
-condicionales, DOM, eventos o localStorage. 
+    Modificamos desde el mismo JavaScript los textos y asignamos clases a los parrafos.
+2. ¿Qué conceptos de JavaScript utilizaste? Por ejemplo: arreglos, objetos, funciones, ciclos,
+condicionales, DOM, eventos o localStorage.
     Usé DOM.
-3. ¿Ya conocías estos conceptos? Indica cuáles habías utilizado anteriormente y cuáles fueron nuevos 
-para ti. 
+3. ¿Ya conocías estos conceptos? Indica cuáles habías utilizado anteriormente y cuáles fueron nuevos
+para ti.
     Las variables y todo los metodos a utilziar me confunden.
-4. ¿Tuviste dificultades? Explica qué parte te causó problemas y cómo intentaste resolverla. 
+4. ¿Tuviste dificultades? Explica qué parte te causó problemas y cómo intentaste resolverla.
     Todavía estoy aprendiendo como se utiliza JavaScript.
 5. ¿Utilizaste Inteligencia Artificial? Responde Sí o No.
-    Sip, para revisar los erores que tenía
+    Sip, para revisar los erores que tenía.
+
+
+EJERCICIO 3
+1. ¿Qué hace este ejercicio? Explica con tus propias palabras la funcionalidad desarrollada.
+    Es una pagina que muestra tarjetas hechas a través de un arreglo de objetos que se hace con JavaScript.
+2. ¿Qué conceptos de JavaScript utilizaste? Por ejemplo: arreglos, objetos, funciones, ciclos,
+condicionales, DOM, eventos o localStorage.
+    Se tiene que utilizar DOM, arreglos, ciclos, incluso una función.
+3. ¿Ya conocías estos conceptos? Indica cuáles habías utilizado anteriormente y cuáles fueron nuevos
+para ti.
+    Todo es nuevo para mi en este momento, al menos la mayoria de cosas.
+4. ¿Tuviste dificultades? Explica qué parte te causó problemas y cómo intentaste resolverla.
+    No sabia como hacer el arrelgo de objetos, me costó un poco de trabajo entender como funcionaba y como
+    tenia que hacerlo.
+5. ¿Utilizaste Inteligencia Artificial? Responde Sí o No.
+    Si, tuve que buscar la forma de hacer el arreglo, me dijo que lo declarara como let y entendí que lo declara así para que fuera de manera
+    global y que mi función pudiera acceder a él, también me ayudó con la forma en la que debía crearlo con sus llaves y comillas.
+
