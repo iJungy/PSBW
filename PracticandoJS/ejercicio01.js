@@ -8,7 +8,6 @@ const text1 = document.createElement("p");
 const text2 = document.createElement("p");
 const lista = document.createElement("ul");
 
-
 // ahora tenemos que llenar el contexto de los elementos que creamos
 
 titulo.textContent = "Practicando JavaScript";
