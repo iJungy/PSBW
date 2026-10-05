@@ -71,8 +71,27 @@ EJERCICIO 5
 3. ¿Ya conocías estos conceptos? Indica cuáles habías utilizado anteriormente y cuáles fueron nuevos para ti.
     No los conocia, solo en clase trabajado con child pero no por cuenta propia.
 4. ¿Tuviste dificultades? Explica qué parte te causó problemas y cómo intentaste resolverla.
-    Se me están olvidando como se llaman las variables y al parecer aquí afecta si tienen el valor de const o de let. 
+    Se me están olvidando como se llaman las variables y al parecer aquí afecta si tienen el valor de const o de let.
     El caso es que no me funcionaba y tube que revisar bien el código.
 5. ¿Utilizaste Inteligencia Artificial? Responde Sí o No.
     Si, tuve que buscar como funcionaba el removechild y como tenia que usarlo.
+
+EJERCICIO 6
+Elegí mouseover y mouseout.
+mouseover ocurre cuando el puntero entra en el área del elemento, y mouseout cuando sale.
+La diferencia con click es que estos eventos no necesitan que el usuario presione nada, solo que mueva el mouse.
+1. ¿Qué hace este ejercicio? Explica con tus propias palabras la funcionalidad desarrollada.
+    Creamos una nueva seccion que es un panel interactivo y agregamos funcionalidades a botones.
+    Podemos mostrar y ocultar la seccion, cambiar el texto de un parrafo de forma ciclica y
+    tambien cambiar el color de un parrafo. Finalmente tenemos una caja en la cual podemos
+    pasar por encima el mopuse y podemos ver un mensaje diferente.
+2. ¿Qué conceptos de JavaScript utilizaste? Por ejemplo: arreglos, objetos, funciones, ciclos, condicionales, DOM, eventos o localStorage.
+    DOM, los eventos de addEventListener, mouseover y mouseout, uso de botones y eventos de click.
+3. ¿Ya conocías estos conceptos? Indica cuáles habías utilizado anteriormente y cuáles fueron nuevos para ti.
+    mouse over y mouse out son nuevos para mi.
+4. ¿Tuviste dificultades? Explica qué parte te causó problemas y cómo intentaste resolverla.
+    Se me estaban olvidando algunas cosas sobre como usar los eventos, pero poco a poco fui recordandolas.
+5. ¿Utilizaste Inteligencia Artificial? Responde Sí o No.
+    Si, tuve que buscar como funcionaban los eventos de mouseover y mouseout.
+
 
