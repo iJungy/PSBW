@@ -95,3 +95,28 @@ La diferencia con click es que estos eventos no necesitan que el usuario presion
     Si, tuve que buscar como funcionaban los eventos de mouseover y mouseout.
 
 
+EJERCICIO 7
+1. ¿Qué hace este ejercicio? Explica con tus propias palabras la funcionalidad desarrollada.
+    Tenemos un formulario que hace un envio de los datos que ingresemos en el formulario a las tarjetas que ya
+    se habian hecho en codigo anterior, entonces es hacer una nueva tarjeta con el formulario.
+2. ¿Qué conceptos de JavaScript utilizaste? Por ejemplo: arreglos, objetos, funciones, ciclos, condicionales, DOM, eventos o localStorage.
+    submit, lo que es un formulario y como funciona, prevendefault y como poder reutilzar el codigo de las tarjetas.
+3. ¿Ya conocías estos conceptos? Indica cuáles habías utilizado anteriormente y cuáles fueron nuevos para ti.
+    Prevendefault no lo conocia, tuve que investigarlo. Los formularios tampoco los conocia.
+    Y bueno, aproveché el codigo de las tarjetas pasadas.
+4. ¿Tuviste dificultades? Explica qué parte te causó problemas y cómo intentaste resolverla.
+    Que cuando recargaba la pagina los datos desaparecían, pero luego entendí que se resolvia el problema en
+    ejercicios posteriores.
+5. ¿Utilizaste Inteligencia Artificial? Responde Sí o No.
+    No.
+
+
+EJERCICIO 8
+1. ¿Qué hace este ejercicio? Explica con tus propias palabras la funcionalidad desarrollada.
+2. ¿Qué conceptos de JavaScript utilizaste? Por ejemplo: arreglos, objetos, funciones, ciclos, condicionales, DOM, eventos o localStorage.
+3. ¿Ya conocías estos conceptos? Indica cuáles habías utilizado anteriormente y cuáles fueron nuevos para ti.
+4. ¿Tuviste dificultades? Explica qué parte te causó problemas y cómo intentaste resolverla.
+5. ¿Utilizaste Inteligencia Artificial? Responde Sí o No.
+
+
+
