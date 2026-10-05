@@ -62,3 +62,17 @@ EJERCICIO 4
     Si, necesitaba arreglar los formatos que me estaban saliendo mal, el diseño de la página se fue por el desague, tuve que buscar como hacerlo.
     Afortunadamente fue un error a solucionar rapido.
 
+EJERCICIO 5
+1. ¿Qué hace este ejercicio? Explica con tus propias palabras la funcionalidad desarrollada.
+    Se crea una lista vacia en la cual podemos agregar elementos y borrarlos tambien, no maneja elementos de 
+    casos anteriores, asi que esta separada.
+2. ¿Qué conceptos de JavaScript utilizaste? Por ejemplo: arreglos, objetos, funciones, ciclos, condicionales, DOM, eventos o localStorage.
+    Una funcion para numerar la lista y tener control de elementos, lo que es child, removechild.
+3. ¿Ya conocías estos conceptos? Indica cuáles habías utilizado anteriormente y cuáles fueron nuevos para ti.
+    No los conocia, solo en clase trabajado con child pero no por cuenta propia.
+4. ¿Tuviste dificultades? Explica qué parte te causó problemas y cómo intentaste resolverla.
+    Se me están olvidando como se llaman las variables y al parecer aquí afecta si tienen el valor de const o de let. 
+    El caso es que no me funcionaba y tube que revisar bien el código.
+5. ¿Utilizaste Inteligencia Artificial? Responde Sí o No.
+    Si, tuve que buscar como funcionaba el removechild y como tenia que usarlo.
+

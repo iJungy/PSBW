@@ -1,6 +1,13 @@
 // El DOM tambien se puede reorganizar
-//   titulo, subtitulo, parrafo1, parrafo2, lista  -> ejercicio01.js
-//   contenedorTarjetas                            -> ejercicio03.js
+//   titulo, subtitulo, parrafo1, parrafo2, lista
+//   contenedorTarjetas
+const title = document.querySelector("h1");
+const subtitle = document.querySelector("h2");
+const list = document.querySelector("ul");
+const parrafos = document.querySelectorAll("p");
+const parrafo1 = parrafos[0];
+const parrafo2 = parrafos[1];
+const container = document.getElementById("contenedor-tarjetas");
 
 // Barra de botones
 // se crea un div pq si se pone con app, entonces va a mover todo el contenido
@@ -24,22 +31,22 @@ document.body.insertBefore(barraReorganizar, app);
 // Contenedores DIV → Título → Lista → Descripción
 function reorganizarPagina() {
     // appendChild sobre un nodo que ya existe lo mueve
-    app.appendChild(contenedorTarjetas);
-    app.appendChild(titulo);
-    app.appendChild(subtitulo);   // el subtitulo acompaña al titulo
-    app.appendChild(lista);
+    app.appendChild(container);
+    app.appendChild(title);
+    app.appendChild(subtitle);   // el subtitulo acompaña al titulo
+    app.appendChild(list);
     app.appendChild(parrafo1);    // la descripcion son los dos parrafos
     app.appendChild(parrafo2);
 }
 
 // Titulo → Descripcion → Lista → Contenedores DIV
 function restaurarOrden() {
-    app.appendChild(titulo);
-    app.appendChild(subtitulo);
+    app.appendChild(title);
+    app.appendChild(subtitle);
     app.appendChild(parrafo1);
     app.appendChild(parrafo2);
-    app.appendChild(lista);
-    app.appendChild(contenedorTarjetas);
+    app.appendChild(list);
+    app.appendChild(container);
 }
 
 // conectamos cada boton con su funcion
